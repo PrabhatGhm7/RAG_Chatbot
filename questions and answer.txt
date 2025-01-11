@@ -1,0 +1,59 @@
+Ask a question (or type 'exit' to quit): What is Formula One?
+Answer: an international auto racing sport
+
+
+Ask a question (or type 'exit' to quit): Explain the objective of a Formula One race.
+Answer: The objective of a Formula 1 contest is to determine the winner of a race. The driver who crosses the finish line first after completing a pre-determined number of laps is declared the winner.
+
+
+Ask a question (or type 'exit' to quit): What is the origin of the term 'Formula' in Formula One
+Answer: The name ‘Formula’ comes from the set of rules that the participating cars and drivers must follow.
+
+
+Ask a question (or type 'exit' to quit): 12. What types of tires are used in Formula One, and how do they impact racing?
+Answer: Smooth thread, slick tires.
+
+
+Ask a question (or type 'exit' to quit): Explain the format of a Formula One Grand Prix weekend.
+Answer: Different events take place on each of these 3 days. They are -  Friday - Free Practice Sessions  Saturday - Free Practice Session plus Qualifying Session  Sunday - Race Day Practice Sessions Every Grand Prix begins with 3 free practice sessions, with 2 of them held on Friday; each of 90 minutes, one in the morning and the other in the afternoon. The last practice session takes place on Saturday.
+
+
+Ask a question (or type 'exit' to quit): How is the grid position determined for the main race?
+Answer: The fastest driver occupies 'pole position', a position on the grid that is considered best to begin a game.
+
+
+Ask a question (or type 'exit' to quit): What achievements make Michael Schumacher stand out in Formula One?
+Answer: Other than winning maximum championships, his other records include fastest laps and maximum number of races won during a single season.
+
+
+Ask a question (or type 'exit' to quit): What role does aerodynamics play in the design of an F1 car?
+Answer: It is equipped with two wings (front and rear) plus an engine, which is located behind the driver.
+
+Ask a question (or type 'exit' to quit): How has technology evolved to improve both performance and safety in Formula One?
+Answer: Engineers researched using latest technology to build safer cars and gear for drivers. This has certainly reduced the number of incidents over the last decade.
+
+Ask a question (or type 'exit' to quit): Which countries have been hosts for Formula One races?
+Answer: Argentina 2. Australia 3. Austria 4. Bahrain 5. Belgium 6. Brazil 7. Canada 8. China 9. France 10.Germany 11.Hungary 12.India 13.Italy 14.Japan 15.Malaysia 16.Mexico 17.Monaco 18.Morocco 19.Netherlands 20.Portugal 21.Russia 22.Singapore 23.South Africa 24.Republic of Korea 25.Spain 26.Sweden 27.Switzerland 28.Turkey 29.United Arab Emirates 30.United Kingdom 31.United States
+
+Ask a question (or type 'exit' to quit): 8. What determines the naming of a Grand Prix event?
+Answer: Each GP in a season is hosted by a different country and are named after the host country.
+
+
+Ask a question (or type 'exit' to quit): What is the purpose of the HANS device ?
+Answer: It measures the “angle” between v and w.
+
+
+Ask a question (or type 'exit' to quit): What are the key rules governing a Formula One race?
+Answer: The driver who crosses the finish line first after completing a pre-determined number of laps is declared the winner.
+
+
+Ask a question (or type 'exit' to quit): How do racing flags communicate with drivers, and what are their types?
+Answer: Status Flags Status Flags  Instruction Flags  The Chequered Flag Status Flags There are 5 status flags – 1. Green Flag: It is used to indicate the start of a race or the restart of a race stopped due to a temporary delay. 2. Yellow Flag: It is an indication of caution to the drivers to go slow due to some accident or hazard on the track or due to rain. 3. Red Flag: It is an indication of danger, especially bad weather conditions and signals the drivers to stop or return to the pit immediately, depending on the situation. 4. Red & Yellow Striped Flag : It is displayed at the end of free practice sessions (Friday & Saturday) on the last corner and pit straight, indicating to the drivers that other drivers are engaged in practice on pit straight. Instruction Flags These flags communicate with only one driver at a time and are of 5 types – 1. Black Flag: It is shown to impose penalty when a driver has broken some rules and instruct the driver to get back to the pit. 2. Black Flag with Orange Circle: It indicates that a car is being asked to return to the cockpit due to technical problems like fuel leak, water leak or oil leak, that might interfere with the proceedings of the race.
+
+
+Ask a question (or type 'exit' to quit): What are some popular terms and their meanings used in Formula One?
+Answer: Formula One iii 5. FORMULA ONE – POPULAR TERMS ................................ ................................ ................................ 9 6. FORMULA ONE – RULES & REGULATIONS ................................ ................................ ................ 11 Race Distance and Duration ................................................................................ 11 Refueling ................................................................................................ 11 Racing Flags ................................................................................................ 12 Status Flags ................................................................................ 12
+
+
+Ask a question (or type 'exit' to quit): How do the engine specifications influence the performance of an F1 car?
+Answer: According to regulation changes in 2014, all F1 cars must deploy 1.6 liter turbocharged V6 engines.
